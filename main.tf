@@ -1,7 +1,7 @@
 
 
 provider "spotify" {
-  api_key = "dVAUtE75zRn1to6S1FGzXg16XW9rvCTIHwMfUPmEnxoRJrC70PBsS7Wj0EWBkyZm"
+  api_key = "dVAUtE75zRn1to6S1FGzXg16XW9rwMfUPmEnxoRJrC70PBsS7Wj0EWB"
 }
 resource "spotify_playlist" "playlist" {
   name        = "My playlist bolly"
